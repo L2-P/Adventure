@@ -5,7 +5,7 @@
  * @version (1.1)
  */
 import java.util.Scanner;
-public class CopyOfAdventure 
+public class Adventure_Game
 
 {
   public static void main(String[] args) {
